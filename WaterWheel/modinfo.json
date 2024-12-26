@@ -1,0 +1,13 @@
+{
+    "type": "code",
+    "modid": "waterwheel",
+    "name": "Water Wheel",
+    "authors": [
+        "Zach2039"
+    ],
+    "description": "Adds water wheels as a mechanical power source.",
+    "version": "1.0.0",
+    "dependencies": {
+        "game": "*"
+    }
+}
